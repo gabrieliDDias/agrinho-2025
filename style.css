@@ -1,1 +1,142 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Impacto das Mudanças Climáticas na Agricultura e Soluções Sustentáveis</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+            scroll-behavior: smooth;
+        }
+        .header {
+            background-color: #2c3e50;
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+        }New to GitHub? Create an accountNew to GitHub? Create an account
+        .header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        .container {
+            max-width: 900px;
+            margin: 30px auto;
+            background: #fff;New to GitHub? Create an account
+            margin-top: 40px;
+            margin-bottom: 25px;
+            text-align: center;
+            font-size: 1.8em;
+        }
+        h3 {
+            color: #34495e;
+            margin-top: 30px;
+            margin-bottom: 15px;
+            font-size: 1.4em;
+        }
+        p {
+            margin-bottom: 15px;
+            text-align: justify;
+        }
+        ul {
+            list-style-type: disc;
+            margin-left: 25px;
+            margin-bottom: 15px;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+        strong {
+            color: #3498db;
+        }
+        .image-container {
+            text-align: center;
+            margin: 30px 0;
+        }
+        .image-container img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+            transition: transform 0.3s ease-in-out;
+        }
+        .image-container img:hover {
+            transform: scale(1.02);
+        }
+        .highlight-box {
+            background-color: #e8f5e9;
+            padding: 20px;
+            border-left: 6px solid #27ae60;
+            margin: 30px 0;
+            border-radius: 5px;
+        }
+        .highlight-box p {
+            margin: 0;
+            font-style: italic;
+            color: #27ae60;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 50px;
+            padding: 25px 0;
+            border-top: 1px solid #eee;
+            color: #777;
+            font-size: 0.9em;
+            background-color: #fff;
+            box-shadow: 0 -2px 5px rgba(0,0,0,0.05);
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>17. Mudanças Climáticas e Agricultura</h1>
+        <p>Impacto nas Colheitas e Soluções Sustentáveis</p>
+    </div>
+
+    <div class="container">
+        <h2>O Desafio: Impacto das Mudanças Climáticas nas Colheitas</h2>
+        <p>As <strong>mudanças climáticas</strong> representam uma das maiores ameaças à segurança alimentar global. O aumento das temperaturas, a alteração nos padrões de chuva e a crescente frequência de eventos climáticos extremos, como secas prolongadas, inundações e ondas de calor, afetam diretamente a <strong>produção agrícola</strong> em todo o mundo. As colheitas se tornam mais vulneráveis, os ciclos de plantio são interrompidos e a qualidade dos solos pode ser comprometida.</p>
+        <p>Produtores rurais enfrentam desafios sem precedentes, necessitando de novas estratégias para adaptar-se a um clima cada vez mais imprevisível. A necessidade de soluções inovadoras e sustentáveis é urgente para garantir a continuidade da produção de alimentos e a subsistência de milhões de pessoas.</p>
+
+        <div class="image-container">
+            <img src="./assets/img/gabrieli" alt="Impacto das Mudanças Climáticas na Agricultura">
+        </div>
+
+        <h2>A Solução: Um Simulador para o Futuro da Agricultura</h2>
+        <p>Para abordar essa problemática, propomos o desenvolvimento de um <strong>Simulador Interativo</strong> que demonstre visualmente como o clima afeta a produção agrícola e, ao mesmo tempo, incentive a adoção de <strong>práticas sustentáveis</strong>. Esta ferramenta educacional e prática visa capacitar agricultores, pesquisadores e o público em geral a compreenderem melhor os cenários futuros e as estratégias de adaptação.</p>
+
+        <h3>Como o Simulador Funciona?</h3>
+        <p>Nosso simulador permitirá que os usuários:</p>
+        <ul>
+            <li><strong>Ajustem Variáveis Climáticas:</strong> Modifiquem a temperatura média anual, os índices pluviométricos e a ocorrência de eventos extremos para simular diferentes cenários climáticos.</li>
+            <li><strong>Selecionem Culturas Agrícolas:</strong> Escolham entre uma variedade de culturas comuns (ex: milho, soja, trigo, café, arroz) para observar como cada uma é afetada por alterações climáticas específicas.</li>
+            <li><strong>Visualizem Projeções de Colheita:</strong> Recebam dados e gráficos claros sobre o rendimento esperado da colheita sob as condições climáticas e as práticas agrícolas selecionadas.</li>
+            <li><strong>Explorem Estratégias Sustentáveis:</strong> Apliquem virtualmente técnicas como irrigação eficiente, plantio direto, rotação de culturas, uso de variedades de sementes resistentes ao estresse hídrico/térmico e práticas de manejo do solo para ver seu impacto na resiliência e produtividade.</li>
+        </ul>
+
+        <h3>Por Que um Simulador é Essencial?</h3>
+        <p>Este simulador não é apenas uma ferramenta de visualização; é um catalisador para a mudança. Ele busca:</p>
+        <ul>
+            <li><strong>Conscientizar:</strong> Aumentar a compreensão pública sobre a gravidade do impacto climático na alimentação.</li>
+            <li><strong>Capacitar Agricultores:</strong> Fornecer insights para tomadas de decisão informadas sobre planejamento de culturas e investimentos em adaptação.</li>
+            <li><strong>Apoiar Pesquisas:</strong> Oferecer uma plataforma para testar hipóteses e modelar o desempenho de diferentes cenários agrícolas.</li>
+            <li><strong>Promover a Sustentabilidade:</strong> Evidenciar os benefícios de práticas agrícolas que promovem a saúde do solo, a conservação da água e a biodiversidade.</li>
+        </ul>
+
+        <div class="highlight-box">
+            <p>Através da simulação e da educação, podemos trabalhar juntos para construir uma agricultura mais resiliente e um futuro mais seguro em termos alimentares, mesmo diante das incertezas climáticas.</p>
+        </div>
+    </div>
+
+    <div class="footer">
+        <p>&copy; 2025. Projeto de Sustentabilidade e Agricultura.</p>
+    </div>
+</body>
+</html>
 
